@@ -17,6 +17,8 @@ Còn nếu các bạn chỉ muốn xem và tham khảo các hình ảnh về vi�
 
 * `assets`: nơi đây lưu trữ các tập tin hỗ trợ như fonts, icons, images
 * `invision-studio`: như đã nói, đây là nơi lưu các file thiết kế bằng Invision
+* `sketchs`: hình ảnh đã được export từ Free Hand trên Invision online ở cấp độ Sketchs
+* `wireframes`: hình ảnh đã được export từ Invision ở cấp độ Wireframes
 * `high-fidelities`: hình ảnh đã được export từ Invision ở cấp độ High Fidelity
 
 ## Tham khảo thêm
@@ -26,5 +28,5 @@ Còn nếu các bạn chỉ muốn xem và tham khảo các hình ảnh về vi�
 
 [1]: https://www.invisionapp.com/
 [2]: https://www.invisionapp.com/studio
-[3]: https://drive.google.com/open?id=1oz4SVPZOswEck33dwVfTy4iGmZ-e4Va_
-[4]: https://drive.google.com/open?id=180eiunZnVPh6u1--eLz6LuqaasTlzReq
+[3]: https://drive.google.com/open?id=1PFQ6zQyRTWy7b8WIWUn04MN52ypwViWW
+[4]: https://drive.google.com/open?id=1IdmfJ1jL6klrHk4q7XFRfrWJk-feHtLp
