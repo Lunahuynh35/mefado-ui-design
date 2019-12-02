@@ -23,10 +23,10 @@ Còn nếu các bạn chỉ muốn xem và tham khảo các hình ảnh về vi�
 
 ## Tham khảo thêm
 
-* Video hướng dẫn vẽ Sketch tại [đây][3] (hiện chưa cập nhật)
+* Video hướng dẫn vẽ Sketch tại [đây][3]
 * Video hướng dẫn vẽ Wireframe tại [đây][4]
 
 [1]: https://www.invisionapp.com/
 [2]: https://www.invisionapp.com/studio
-[3]: https://
+[3]: https://drive.google.com/open?id=1PFQ6zQyRTWy7b8WIWUn04MN52ypwViWW
 [4]: https://drive.google.com/open?id=1IdmfJ1jL6klrHk4q7XFRfrWJk-feHtLp
